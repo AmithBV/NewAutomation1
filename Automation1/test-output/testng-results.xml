@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13088" started-at="2019-08-09T02:39:51Z" finished-at="2019-08-09T02:40:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13088" started-at="2019-08-09T02:39:51Z" finished-at="2019-08-09T02:40:04Z">
+      <class name="scripts.VerifyProductVersion">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.VerifyProductVersion@3834d63f]" name="preCondition" is-config="true" duration-ms="8784" started-at="2019-08-09T08:09:51Z" finished-at="2019-08-09T08:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testVerifyProductVersion()[pri:0, instance:scripts.VerifyProductVersion@3834d63f]" name="testVerifyProductVersion" duration-ms="4266" started-at="2019-08-09T08:10:00Z" finished-at="2019-08-09T08:10:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyProductVersion -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:scripts.VerifyProductVersion@3834d63f]" name="postCondition" is-config="true" duration-ms="19" started-at="2019-08-09T08:10:04Z" finished-at="2019-08-09T08:10:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- scripts.VerifyProductVersion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
